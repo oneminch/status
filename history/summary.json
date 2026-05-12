@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/minch.dev.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
     "timeDay": 0,
-    "timeWeek": 242,
-    "timeMonth": 222,
-    "timeYear": 190,
+    "timeWeek": 0,
+    "timeMonth": 267,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
+    "time": 418,
     "timeDay": 0,
-    "timeWeek": 256,
-    "timeMonth": 1667,
-    "timeYear": 1121,
+    "timeWeek": 0,
+    "timeMonth": 1334,
+    "timeYear": 1114,
     "dailyMinutesDown": {}
   }
 ]
